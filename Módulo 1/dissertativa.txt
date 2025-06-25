@@ -1,0 +1,27 @@
+Solução Dissertativa
+
+1. Leia e armazene o número n que se deseja multiplicar por 9. #Entrada
+
+2. Subtraia n - 1 e armazene como primeiro digito n1. #Processamento
+
+3. Subtraia 10 - n e armazene como o segundo digito n2. #Processamento
+
+4. Realize a expressão (n1 x 10) + n2 e armazene como resultado final r. #Processamento
+
+5. Apresente r (o resultado final) e encerre o programa. #Saída
+
+
+----
+
+Exemplo da tabuada do 9: 
+
+n = 1 -> (1 - 1) x 10 + (10 - 1) = 0x10 + 9 = 9
+n = 2 -> (2 - 1) x 10 + (10 - 2) = 1x10 + 8 = 18
+n = 3 -> (3 - 1) x 10 + (10 - 3) = 2x10 + 7 = 27
+n = 4 -> (4 - 1) x 10 + (10 - 4) = 3x10 + 6 = 36
+n = 5 -> (5 - 1) x 10 + (10 - 5) = 4x10 + 5 = 45
+n = 6 -> (6 - 1) x 10 + (10 - 6) = 5x10 + 4 = 54
+n = 7 -> (7 - 1) x 10 + (10 - 7) = 6x10 + 3 = 63
+n = 8 -> (8 - 1) x 10 + (10 - 8) = 7x10 + 2 = 72
+n = 9 -> (9 - 1) x 10 + (10 - 9) = 8x10 + 1 = 81
+n = 10 -> (10 - 1) x 10 + (10 - 10) = 9x10 + 0= 90
