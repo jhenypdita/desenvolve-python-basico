@@ -34,4 +34,4 @@ preco_total    = preco_m2   * area_m2
 
 # Imprime o resultado formatado com duas casas decimais
 
-print(f"O terreno possui: {area_m2}m² e custa: R${preco_total}")
+print(f"O terreno possui: {area_m2}m² e custa: R${preco_total:,.2f}")
