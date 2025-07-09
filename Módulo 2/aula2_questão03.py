@@ -11,7 +11,7 @@ v2 = 20
 
 #Variável Auxiliar
 
-Va =v1
+Va = v1
 v1 = v2
 v2 = Va 
 
